@@ -1,0 +1,17 @@
+{
+  "issuer": {
+    "countryName": "LA",
+    "commonName": "Lao PDR"
+  },
+  "subject": {
+    "countryName": "LA",
+    "commonName": "Department of Planning and Cooperation - MoH"
+  },
+  "validFrom": "2021-10-08T09:51:20.000Z",
+  "validTo": "2026-08-23T09:51:20.000Z",
+  "isCA": false,
+  "raw": "MIIBVTCB/QIBATAJBgcqhkjOPQQBMDIxIzAhBgNVBAMMGk1pbmlzdHJ5IG9mIEhlYWx0aCBMYW8gUERSMQswCQYDVQQGEwJMQTAeFw0yMTEwMDgwOTUxMjBaFw0yNjA4MjMwOTUxMjBaMD4xCzAJBgNVBAYTAkxBMS8wLQYDVQQDDCZEZXBhcnRtZW50IG9mIFBsYW5uaW5nIGFuZCBDb29wZXJhdGlvbjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABHmWen1pthfI75Ak0CUPaEJRcNUHxGJnfwPsxhnwPTz5i6L46E8Lrnky942QyC72bAZQOCpi7QJ8r77oT0rVxQ0wCQYHKoZIzj0EAQNIADBFAiARRZKy3JpJjGBbIsFDxl2lKI8u42vWXqEQ0i3QIPPWiwIhAPGekvTWZXE4r8EgyXRv7sqZijimnsj+lfs758/duNpt",
+  "publicKey": {
+    "keyRaw": "BHmWen1pthfI75Ak0CUPaEJRcNUHxGJnfwPsxhnwPTz5i6L46E8Lrnky942QyC72bAZQOCpi7QJ8r77oT0rVxQ0="
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "rn-dcc-verifier",
+    "slug": "rn-dcc-verifier",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": ""
+  },
+  "name": "rn-dcc-verifier"
+}

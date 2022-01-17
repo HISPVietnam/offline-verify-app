@@ -1,0 +1,38 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "web": "expo start --web",
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "base45": "^3.0.0",
+    "crypto-browserify": "^3.12.0",
+    "elliptic": "^6.5.4",
+    "expo": "~42.0.1",
+    "expo-barcode-scanner": "~10.2.2",
+    "expo-crypto": "~9.2.0",
+    "expo-random": "~11.2.0",
+    "expo-splash-screen": "~0.11.2",
+    "expo-status-bar": "~1.0.4",
+    "expo-updates": "~0.8.1",
+    "fastestsmallesttextencoderdecoder": "^1.0.22",
+    "jsbi": "^3.2.4",
+    "node-libs-expo": "^0.0.3",
+    "nofilter": "^3.0.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "~0.63.4",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-paper": "^4.9.2",
+    "react-native-reanimated": "~2.2.0",
+    "react-native-screens": "~3.4.0",
+    "react-native-unimodules": "0.14.10",
+    "react-native-web": "~0.13.12"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0"
+  },
+  "private": true
+}
